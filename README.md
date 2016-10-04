@@ -1,2 +1,2 @@
 # DotNet-Calc
-.net 计算器
+.net 简易 计算器
