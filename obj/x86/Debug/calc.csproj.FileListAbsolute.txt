@@ -1,0 +1,9 @@
+D:\Users\范例文档\Visual Studio\C#\calc\calc\bin\Debug\calc.exe
+D:\Users\范例文档\Visual Studio\C#\calc\calc\bin\Debug\calc.pdb
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\calc.Form1.resources
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\calc.Properties.Resources.resources
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\calc.exe
+D:\Users\范例文档\Visual Studio\C#\calc\calc\obj\x86\Debug\calc.pdb
